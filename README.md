@@ -1,3 +1,6 @@
+docker-redis
+================
+
 Create directory /etc/redis on host server and copy redis.conf to it.
 
 ##### Build the container:
